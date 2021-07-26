@@ -1,2 +1,2 @@
 # TriviaQuiz
- This is webgl version of "TriviaQuiz"
+ Play on web from here https://nikgamedev.github.io/TriviaQuiz/
